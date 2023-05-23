@@ -1,5 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+Mohamed's+Coding+World+%F0%9F%98%80)](https://git.io/typing-svg)
+
+---
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,15 +20,23 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+&nbsp;
 <div align="center">
   <img  src="https://komarev.com/ghpvc/?username=MuhamedAhmed11&style=flat-square&color=blue" alt=""/>
 </div>
+&nbsp;
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhamedahmed11)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
 ### :man_technologist: About Me :
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+
+- ⚡ I possess a deep understanding of the project management lifecycle and am skilled in all elements of it.
+
+- ↗️ I am a team player with excellent communication skills and a passion for delivering high-quality apps that exceed user expectations.
 
 ---
 
@@ -66,3 +78,5 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhamedahmed11&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedahmed11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamedahmed11&show_icons=true&theme=transparent)
+

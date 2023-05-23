@@ -42,6 +42,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 📮 How to reach me ➡️ mohamed.a.abdelmonem10@gmail.com
 
+- 📁 My Resume ➡️ [Click here 🖱️](https://drive.google.com/drive/folders/1PhoIcvcBZmnUOm2o1hnxu-eY89Eo9sJk?usp=share_link)
 ---
 
 ### Programming Languages:
